@@ -4,22 +4,22 @@
   },
   "devFiles": [],
   "polyfillFiles": [
-    "static/chunks/30328_next_dist_build_polyfills_polyfill-nomodule.js"
+    "static/chunks/9e6fd_next_dist_build_polyfills_polyfill-nomodule.js"
   ],
   "lowPriorityFiles": [
     "static/development/_ssgManifest.js",
     "static/development/_buildManifest.js"
   ],
   "rootMainFiles": [
-    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_01b9d7e6._.js",
-    "static/chunks/30328_next_dist_compiled_react-dom_ab081182._.js",
-    "static/chunks/30328_next_dist_compiled_react-server-dom-turbopack_d436c63a._.js",
-    "static/chunks/30328_next_dist_compiled_next-devtools_index_a8e2b24b.js",
-    "static/chunks/30328_next_dist_compiled_3eee8b12._.js",
-    "static/chunks/30328_next_dist_client_b079da2c._.js",
-    "static/chunks/30328_next_dist_745cf7e3._.js",
-    "static/chunks/30328_@swc_helpers_cjs_1a225c21._.js",
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8d972e56._.js",
+    "static/chunks/9e6fd_next_dist_compiled_react-dom_eb6d6532._.js",
+    "static/chunks/9e6fd_next_dist_compiled_react-server-dom-turbopack_5fd203d1._.js",
+    "static/chunks/9e6fd_next_dist_compiled_next-devtools_index_9d84ad2a.js",
+    "static/chunks/9e6fd_next_dist_compiled_0487e2be._.js",
+    "static/chunks/9e6fd_next_dist_client_fe6ed5fe._.js",
+    "static/chunks/9e6fd_next_dist_e98a86f7._.js",
+    "static/chunks/65cc0_@swc_helpers_cjs_4b6da387._.js",
     "static/chunks/Desktop_freelance112_a0ff3932._.js",
-    "static/chunks/turbopack-Desktop_freelance112_c69549bb._.js"
+    "static/chunks/turbopack-Desktop_freelance112_d1fcab9a._.js"
   ]
 }

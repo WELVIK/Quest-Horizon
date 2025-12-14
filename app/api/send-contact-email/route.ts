@@ -8,7 +8,7 @@ export async function POST(request: Request) {
     const data = await request.json()
     const { name, email, phone, subject, message } = data
 
-    console.log("[v0] Contact form submission received:", {
+    console.log("Contact form submission received:", {
       name,
       email,
       subject,
